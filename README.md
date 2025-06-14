@@ -1,1 +1,0 @@
-# merging-two-sorted-arrays
